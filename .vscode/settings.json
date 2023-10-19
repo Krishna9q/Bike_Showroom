@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\mysql-connector-j-8.0.33.jar",
+        "c:\\itextpdf-5.5.13.3.jar",
+        "c:\\jcalendar-tz-1.3.3-4.jar",
+        "c:\\Programing Languages\\Library\\old\\itextpdf-5.5.13.3.jar",
+        "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-j-8.0.32.jar",
+        "c:\\Programing Languages\\INTERVIEW\\Project\\ATM Simulator System\\jcalendar-tz-1.3.3-4.jar"
+    ]
+}
